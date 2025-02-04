@@ -1,5 +1,4 @@
-# **Simulation Code for "Reducing Symbiosis Bias through Better A/B Tests of
-Recommendation Algorithms"**
+# **Simulation Code for "Reducing Symbiosis Bias through Better A/B Tests of Recommendation Algorithms"**
 
 ## **Table of Contents**
 1. [Repo Overview](#1-repo-overview)
