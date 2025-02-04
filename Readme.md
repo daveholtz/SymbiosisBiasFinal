@@ -11,7 +11,7 @@
 ## **1. Repo Overview**
 
 This repository contains replication code for the simulations found in "Reducing Symbiosis Bias through Better A/B Tests of
-Recommendation Algorithms" (Brennan et al. 2025, ACM WWW). The repo structure is described below:
+Recommendation Algorithms" (Brennan et al., ACM WWW 2025). The repo structure is described below:
 
 
 ```bash
